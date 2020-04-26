@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//aditya-adks.github.io/fun_react/static/css/main.88118110.chunk.css",
+    "main.js": "/http//aditya-adks.github.io/fun_react/static/js/main.639896d2.chunk.js",
+    "main.js.map": "/http//aditya-adks.github.io/fun_react/static/js/main.639896d2.chunk.js.map",
+    "runtime-main.js": "/http//aditya-adks.github.io/fun_react/static/js/runtime-main.95da3cb0.js",
+    "runtime-main.js.map": "/http//aditya-adks.github.io/fun_react/static/js/runtime-main.95da3cb0.js.map",
+    "static/js/2.54cc66b5.chunk.js": "/http//aditya-adks.github.io/fun_react/static/js/2.54cc66b5.chunk.js",
+    "static/js/2.54cc66b5.chunk.js.map": "/http//aditya-adks.github.io/fun_react/static/js/2.54cc66b5.chunk.js.map",
+    "index.html": "/http//aditya-adks.github.io/fun_react/index.html",
+    "precache-manifest.b5d6c28397eda2469a56eb316428636a.js": "/http//aditya-adks.github.io/fun_react/precache-manifest.b5d6c28397eda2469a56eb316428636a.js",
+    "service-worker.js": "/http//aditya-adks.github.io/fun_react/service-worker.js",
+    "static/css/main.88118110.chunk.css.map": "/http//aditya-adks.github.io/fun_react/static/css/main.88118110.chunk.css.map",
+    "static/js/2.54cc66b5.chunk.js.LICENSE.txt": "/http//aditya-adks.github.io/fun_react/static/js/2.54cc66b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95da3cb0.js",
+    "static/js/2.54cc66b5.chunk.js",
+    "static/css/main.88118110.chunk.css",
+    "static/js/main.639896d2.chunk.js"
+  ]
+}
